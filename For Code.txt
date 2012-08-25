@@ -1,0 +1,7 @@
+Instead of 
+svn checkout http://air-maps-ane.googlecode.com/svn/trunk/ air-maps-ane-read-only
+
+Please do :
+svn checkout http://air-maps-ane.googlecode.com/svn/ air-maps-ane-read-only
+
+The source code is in the /svn/branches/main directory
